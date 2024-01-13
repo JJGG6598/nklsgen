@@ -3,8 +3,8 @@ Hi, this is an early version of a package designed to generate nk fitness landsc
 This package has 3 dependencies: numpy, itertools, and random.
 
 I HAVE NOT PERFORMED VERSION COMPATIBILITY TESTING ON THIS PACKAGE
-    Currently runs with:
-        numpy.__version__ => '1.25.2'
+    
+Currently runs with: numpy.__version__ => '1.25.2'
         
 Check out Examples.ipynb for a primer on how to use this package!
         
